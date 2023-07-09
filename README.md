@@ -16,4 +16,4 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
 # Licença
 Este projeto está licenciado sob a MIT License.
 
-Esperamos que este projeto de portfólio seja útil para você como exemplo de implementação de cadastro de funcionários usando ASP.NET Core, Entity Framework e arquitetura Vertical Slice. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato ou abrir uma issue no repositório. Agradecemos por seu interesse!
+Espero que este projeto de portfólio seja útil para você como exemplo de implementação de cadastro de funcionários usando ASP.NET Core, Entity Framework e arquitetura Vertical Slice. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato ou abrir uma issue no repositório. Agradeço por seu interesse!
