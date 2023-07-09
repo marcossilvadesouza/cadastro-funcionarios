@@ -10,3 +10,4 @@ Configuração do Ambiente
 Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
 
 1 - Clone este repositório em sua máquina local:
+´´´git clone  https://github.com/marcossilvadesouza/cadastro-funcionarios.git´´´
