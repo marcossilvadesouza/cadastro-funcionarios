@@ -4,7 +4,9 @@ Este projeto é um exemplo de um aplicativo web de cadastro de funcionários des
 Pré-requisitos
 Antes de executar o projeto, verifique se você possui os seguintes requisitos instalados:
 
-.NET Core SDK (versão 3.1 ou superior)
+.NET Core SDK (versão 7.0 ou superior)
 Docker (opcional, apenas se você desejar executar o aplicativo em um contêiner Docker)
 Configuração do Ambiente
 Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
+
+1 - Clone este repositório em sua máquina local:
