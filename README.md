@@ -1,4 +1,4 @@
-# Projeto de Portfólio - Cadastro de Funcionários
+# Projeto de Portifólio - Cadastro de Funcionários
 Este projeto é um exemplo de um aplicativo web de cadastro de funcionários desenvolvido utilizando ASP.NET Core com Entity Framework, arquitetura Vertical Slice e Docker.
 
 Pré-requisitos
