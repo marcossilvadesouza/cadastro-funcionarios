@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{16767F35-38D1-4560-83D7-963CD6923758}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{03163A23-9DCB-4B8B-B6E1-960AA4E329A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{30AD9A80-F3BE-457D-88B0-5288AA3C37B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroFuncionarios.UnitTests", "src\backend\CadastroFuncionarios.UnitTests\CadastroFuncionarios.UnitTests.csproj", "{1337564D-961E-4893-BA54-DE2A2D3DE9CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroFuncionarios.Domain", "src\backend\CadastroFuncionarios.Domain\CadastroFuncionarios.Domain.csproj", "{E548AA89-C4A9-4F84-BA94-693717A5610D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroFuncionarios.Api", "src\backend\CadastroFuncionarios.Api\CadastroFuncionarios.Api.csproj", "{746D0390-0ED1-4333-A7E9-24963A0C2C29}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F85B27B5-DA3A-4821-B85B-2AD4C6BBD987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1337564D-961E-4893-BA54-DE2A2D3DE9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1337564D-961E-4893-BA54-DE2A2D3DE9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1337564D-961E-4893-BA54-DE2A2D3DE9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1337564D-961E-4893-BA54-DE2A2D3DE9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E548AA89-C4A9-4F84-BA94-693717A5610D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E548AA89-C4A9-4F84-BA94-693717A5610D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E548AA89-C4A9-4F84-BA94-693717A5610D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E548AA89-C4A9-4F84-BA94-693717A5610D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746D0390-0ED1-4333-A7E9-24963A0C2C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746D0390-0ED1-4333-A7E9-24963A0C2C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746D0390-0ED1-4333-A7E9-24963A0C2C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746D0390-0ED1-4333-A7E9-24963A0C2C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85B27B5-DA3A-4821-B85B-2AD4C6BBD987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85B27B5-DA3A-4821-B85B-2AD4C6BBD987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85B27B5-DA3A-4821-B85B-2AD4C6BBD987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85B27B5-DA3A-4821-B85B-2AD4C6BBD987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03163A23-9DCB-4B8B-B6E1-960AA4E329A5} = {16767F35-38D1-4560-83D7-963CD6923758}
+		{30AD9A80-F3BE-457D-88B0-5288AA3C37B2} = {16767F35-38D1-4560-83D7-963CD6923758}
+		{1337564D-961E-4893-BA54-DE2A2D3DE9CF} = {30AD9A80-F3BE-457D-88B0-5288AA3C37B2}
+		{E548AA89-C4A9-4F84-BA94-693717A5610D} = {30AD9A80-F3BE-457D-88B0-5288AA3C37B2}
+		{746D0390-0ED1-4333-A7E9-24963A0C2C29} = {30AD9A80-F3BE-457D-88B0-5288AA3C37B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909D797F-7F21-4B3A-9D18-03CF5413A8E7}
+	EndGlobalSection
+EndGlobal
